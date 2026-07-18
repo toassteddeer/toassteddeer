@@ -33,6 +33,10 @@ ${\color{#948181}{⊹ ࣪ ˖ ꒰ঌ ໒꒱ }}$
 
 ###
 
+<div data-importer="profile-views" align="center">
+  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=toassteddeer.toassteddeer&left_color=rosybrown&right_color=antiquewhite&left_text=FAWNS"  />
+</div>
+
 ###
 
 <p align="center">  
