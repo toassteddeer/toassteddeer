@@ -29,7 +29,7 @@ ${\color{#948181}{⊹ ࣪ ˖ ꒰ঌ ໒꒱ }}$
 
 <br clear="both">
 
-<img data-importer="image" align="left" height="450" src="https://media.discordapp.net/attachments/977534099570950144/1527691597221724190/Untitled134_20260717230044.png?ex=6a5b952b&is=6a5a43ab&hm=25eb47a94f792136494948c46c722679e3b39e41223d128dadce9b4d6456d7c0&=&format=webp&quality=lossless&width=857&height=857"  />
+<img data-importer="image" align="left" height="350" src="https://media.discordapp.net/attachments/977534099570950144/1527691597221724190/Untitled134_20260717230044.png?ex=6a5b952b&is=6a5a43ab&hm=25eb47a94f792136494948c46c722679e3b39e41223d128dadce9b4d6456d7c0&=&format=webp&quality=lossless&width=857&height=857"  />
 
 ###
 
