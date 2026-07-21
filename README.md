@@ -29,7 +29,7 @@ ${\color{#948181}{⊹ ࣪ ˖ ꒰ঌ ໒꒱ }}$
 
 <br clear="both">
 
-<img data-importer="image" align="left" height="400" src="https://media.discordapp.net/attachments/977534099570950144/1527691597221724190/Untitled134_20260717230044.png?ex=6a5b952b&is=6a5a43ab&hm=25eb47a94f792136494948c46c722679e3b39e41223d128dadce9b4d6456d7c0&=&format=webp&quality=lossless&width=857&height=857"  />
+<img data-importer="image" align="left" height="550" src="https://media.discordapp.net/attachments/977534099570950144/1527691597221724190/Untitled134_20260717230044.png?ex=6a5b952b&is=6a5a43ab&hm=25eb47a94f792136494948c46c722679e3b39e41223d128dadce9b4d6456d7c0&=&format=webp&quality=lossless&width=857&height=857"  />
 
 ###
 
@@ -46,6 +46,6 @@ ${\color{#a18e89}{isfp}}$ ${\color{#a18e89}{4w3}}$ ${\color{#a18e89}{sp/sx}}$ ${
 
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=iwz5ivqfk4meassz2wh9vv0kg&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=iwz5ivqfk4meassz2wh9vv0kg&cover_image=true&theme=novatorem&show_offline=true&background_color=302c2c&interchange=true&profanity=false&hide_remaster=false&bar_color=4e4646&bar_color_cover=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=iwz5ivqfk4meassz2wh9vv0kg&cover_image=true&theme=compact&show_offline=false&background_color=dcc7c1&interchange=false&profanity=false&hide_remaster=true">
   </a>
 </p>
