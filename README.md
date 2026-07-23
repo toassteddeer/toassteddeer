@@ -49,3 +49,6 @@ ${\color{#a18e89}{isfp}}$ ${\color{#a18e89}{4w3}}$ ${\color{#a18e89}{sp/sx}}$ ${
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=iwz5ivqfk4meassz2wh9vv0kg&cover_image=true&theme=spotify-embed&show_offline=false&background_color=dcc7c1&interchange=false&profanity=false&hide_remaster=true&bar_color=786a69&bar_color_cover=true&mode=dark">
   </a>
 </p>
+
+[me](https://hellocharlotte.fandom.com/wiki/Henrietta_%22Anri%22_Warhol_(Heaven%27s_Gate))
+
