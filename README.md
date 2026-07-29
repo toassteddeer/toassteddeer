@@ -40,7 +40,7 @@ ${\color{#948181}{⊹ ࣪ ˖ ꒰ঌ ໒꒱ }}$
 ###
 
 <p align="center">  
-${\color{#a18e89}{isfp}}$ ${\color{#a18e89}{4w3}}$ ${\color{#a18e89}{sp/sx}}$ ${\color{#a18e89}{416}}$ ${\color{#a18e89}{mel-phleg}}$ ${\color{#a18e89}{chaotneut}}$ ${\color{#a18e89}{EVFL²⁴²²}}$ ${\color{#a18e89}{r[L]u/A/I}}$ ${\color{#a18e89}{aot/W/[D]Rg}}$ 
+${\color{#a18e89}{isfp}}$ ${\color{#a18e89}{4w3}}$ ${\color{#a18e89}{sp/sx}}$ ${\color{#a18e89}{416}}$ ${\color{#a18e89}{mel-phleg}}$ ${\color{#a18e89}{EVFL²⁴²²}}$ ${\color{#a18e89}{r[L]u/A/I}}$ ${\color{#a18e89}{aot/W/[D]Rg}}$ 
 
 
 
