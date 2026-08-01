@@ -56,20 +56,5 @@ ${\color{#a18e89}{isfp}}$ ${\color{#a18e89}{4w3}}$ ${\color{#a18e89}{sp/sx}}$ ${
 [me](https://hellocharlotte.fandom.com/wiki/Henrietta_%22Anri%22_Warhol_(Heaven%27s_Gate))
 
 
-<div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
-
-###
-
-<div data-importer="image" align="center">
-  <img data-importer="image" height="400" src="https://media.discordapp.net/attachments/977534099570950144/1530882519778459689/Screenshot_2026-07-26_181737.png?ex=6a6730f3&is=6a65df73&hm=07fdf8c3f80cb9b0d95ca2c71ee230653707a541172ce597c51c05dbd452aaa5&=&format=webp&quality=lossless&width=211&height=182"  />
-</div>
-
-###
-
-<p data-importer="text" align="center">shout out to gilbert for making this wonderful piece</p>
-
-###
 
 
